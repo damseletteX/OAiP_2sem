@@ -1,0 +1,50 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Library files
+*.lib
+*.a
+*.dll
+*.so
+
+# Build directories
+build/
+bin/
+[Dd]ebug/
+[Rr]elease/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+CTestTestfile.cmake
+Makefile
+cmake_install.cmake
+
+# IDE specific files/folders (example for Visual Studio and CLion)
+.idea/             # CLion
+.vscode/           # VS Code (optional, if you have user-specific settings)
+*.aps              # Visual Studio
+*.ncb
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.config.cache
+ipch/
+[Dd]ebugPS/
+[Rr]eleasePS/
+*.VC.db
+*.VC.opendb
+
+# OS generated files
+.DS_Store          # macOS
+Thumbs.db          # Windows
